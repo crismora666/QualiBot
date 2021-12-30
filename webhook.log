@@ -1,0 +1,8 @@
+2018-12-20 13:35:10
+{"update_id":29307,
+"message":{"message_id":177645,"from":{"id":6782,"is_bot":false,"first_name":"Santiago","last_name":"Corrales","username":"pscorrales76"},"chat":{"id":-31089,"title":"Monitor RTWP Eventual","type":"group","all_members_are_administrators":true},"date":1545309313,"left_chat_participant":{"id":28223,"is_bot":true,"first_name":"Consultor Virtual","username":"optimizacionbot"},"left_chat_member":{"id":28223,"is_bot":true,"first_name":"Consultor Virtual","username":"optimizacionbot"}}}
+
+2018-12-20 13:35:16
+{"update_id":29307,
+"message":{"message_id":177646,"from":{"id":6782,"is_bot":false,"first_name":"Santiago","last_name":"Corrales","username":"pscorrales76"},"chat":{"id":-31089,"title":"Monitor RTWP Eventual","type":"group","all_members_are_administrators":true},"date":1545309321,"new_chat_participant":{"id":28223,"is_bot":true,"first_name":"Consultor Virtual","username":"optimizacionbot"},"new_chat_member":{"id":28223,"is_bot":true,"first_name":"Consultor Virtual","username":"optimizacionbot"},"new_chat_members":[{"id":28223,"is_bot":true,"first_name":"Consultor Virtual","username":"optimizacionbot"}]}}
+
